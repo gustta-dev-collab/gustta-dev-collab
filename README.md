@@ -8,17 +8,6 @@
 
 ## 🤖 Linguagens e Tecnologias
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Meu Projeto</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-  <h1>Bem-vindo ao meu projeto!</h1>
-</body>
-</html>
-
 <img 
     align="left" 
     alt="HTML"
