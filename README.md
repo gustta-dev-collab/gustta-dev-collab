@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Lima
 
-**Desenvolvedor Front-End**
+**Desenvolvedor Full-Stack**
 
 - Me chamo Gustavo, tenho 23 anos e sou natural do Fortaleza CE . Estou cursando a graduação de Engenharia de Software, na Universidade Unifatecie Sou deslumbrado por tecnologia e compartilho meu conhecimento atraves de projetos.
 
@@ -47,4 +47,28 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
