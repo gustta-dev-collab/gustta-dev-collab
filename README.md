@@ -22,7 +22,13 @@
 </details>
 
 <!-- Link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-dev)
+<p align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585921566479?text=Olá%20Gustavo,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-dev)
+[![Email](https://img.shields.io/badge/Email-Gustavo%20Lima-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gustta00378@gmail.com)
+
+</p>
 
 <!-- GIF -->
 <p align="left">
@@ -66,4 +72,3 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="pandas" width="40" height="40"/>
   </div>
-  
