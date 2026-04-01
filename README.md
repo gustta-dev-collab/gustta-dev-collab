@@ -2,7 +2,9 @@
 
 **Desenvolvedor Full-Stack**
 
-- Me chamo Gustavo, tenho 23 anos e sou natural do Fortaleza CE . Estou cursando a graduação de Engenharia de Software, na Universidade Unifatecie Sou deslumbrado por tecnologia e compartilho meu conhecimento atraves de projetos.
+-Meu nome é Gustavo, tenho 23 anos e sou natural de Fortaleza, no estado do Ceará. Atualmente estou cursando a graduação em Engenharia de Software pela Universidade Unifatecie, onde venho desenvolvendo conhecimentos sólidos na área de tecnologia e programação.
+
+Desde cedo sempre fui apaixonado por tecnologia e inovação, o que me motivou a aprofundar meus estudos em desenvolvimento de sistemas e soluções digitais. Ao longo da minha trajetória acadêmica, venho me dedicando não apenas ao aprendizado teórico, mas também à prática, criando projetos próprios com o objetivo de aprimorar minhas habilidades e compartilhar conhecimento com outras pessoas interessadas na área.
 
 ---
 
