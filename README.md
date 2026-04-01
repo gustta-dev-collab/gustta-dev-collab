@@ -1,76 +1,69 @@
-# 👩🏻‍💻 Gustavo Lima
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-**Desenvolvedor Full-Stack**
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Gustavo! A passionate Software Engineer student from Brazil.
 
--Meu nome é Gustavo, tenho 23 anos e sou natural de Fortaleza, no estado do Ceará. Atualmente estou cursando a graduação em Engenharia de Software pela Universidade Unifatecie, onde venho desenvolvendo conhecimentos sólidos na área de tecnologia e programação.
+  - 🌱 I’m currently studying Software Engineer <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-Desde cedo sempre fui apaixonado por tecnologia e inovação, o que me motivou a aprofundar meus estudos em desenvolvimento de sistemas e soluções digitais. Ao longo da minha trajetória acadêmica, venho me dedicando não apenas ao aprendizado teórico, mas também à prática, criando projetos próprios com o objetivo de aprimorar minhas habilidades e compartilhar conhecimento com outras pessoas interessadas na área.
+</p>
 
----
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-## 🤖 Linguagens e Tecnologias
+  - 💬 My name is Gustavo, I am 23 years old, and I was born in Fortaleza, in the state of Ceará, Brazil. I am currently pursuing a degree in Software Engineering at Universidade Unifatecie, where I have been developing solid knowledge in the field of technology and programming.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  - ⚡ From an early age, I have always been passionate about technology and innovation, which motivated me to deepen my studies in system development and digital solutions. Throughout my academic journey, I have been dedicated not only to theoretical learning but also to practical experience, creating my own projects with the goal of improving my skills and sharing knowledge with others who are interested in this field.
+</details>
+
+<!-- Link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-dev)
+
+<!-- GIF -->
+<p align="left">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="900px"
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="docker" 
-    title="docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </div>
+
+  <!-- Skills: DevOps -->
+  <div style="flex-basis: 48%;">
+    <h3>DevOps</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="pandas" width="40" height="40"/>
+  </div>
+  
