@@ -1,7 +1,13 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+
+<h1>
+  <span style="color:#00F5FF;">&lt;</span>
+  <span style="color:#ffffff;">Hello</span>
+  <span style="color:#00F5FF;">_</span>
+  <span style="color:#00FF9C;">World</span>
+  <span style="color:#00F5FF;">/&gt;</span>
+</h1>
 </div>
 
 <!-- Presentation -->
