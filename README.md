@@ -1,13 +1,9 @@
 <!--título-->
 <div align="center">
-
 <h1>
-  <span style="color:#00F5FF;">&lt;</span>
-  <span style="color:#ffffff;">Hello</span>
-  <span style="color:#00F5FF;">_</span>
-  <span style="color:#00FF9C;">World</span>
-  <span style="color:#00F5FF;">/&gt;</span>
+<font> &lt; Hello_World /&gt; </font>
 </h1>
+
 </div>
 
 <!-- Presentation -->
@@ -36,12 +32,6 @@
 
 </p>
 
-<!-- GIF -->
-<p align="left">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="900px"
-/>
 </p>
 
 ## 🔥 Skills
@@ -78,3 +68,12 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="pandas" width="40" height="40"/>
   </div>
+  
+  <br><br>
+
+<!-- GIF -->
+<p align="left">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="900px"
+/>
